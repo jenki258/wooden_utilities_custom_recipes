@@ -1,4 +1,3 @@
-```markdown
 # Custom Sawmill Recipes for Wooden Utilities Mod  
 
 This guide explains how to create custom sawmill recipes for the **Wooden Utilities** mod in Minecraft. Follow the steps carefully to configure your recipes properly.
