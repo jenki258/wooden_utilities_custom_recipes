@@ -124,3 +124,8 @@ Here are a few examples:
 ---
 
 📌 **Created for the Wooden Utilities Mod** – Happy Crafting! 🎉  
+
+
+Discord channels:
+- ModernGamingWorld(Idea & first versions of the mod): https://discord.gg/FMsaFgRda5
+- JenkiMods(Developer of this mod): https://discord.gg/bJWbUsWAWk
