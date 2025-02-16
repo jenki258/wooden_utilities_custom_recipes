@@ -124,4 +124,3 @@ Here are a few examples:
 ---
 
 📌 **Created for the Wooden Utilities Mod** – Happy Crafting! 🎉  
-```
