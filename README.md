@@ -5,9 +5,9 @@ This guide explains how to create custom sawmill recipes for the **Wooden Utilit
 
 ---
 
-## 📌 How to Add Custom Recipes  
+# 📌 How to Add Custom Recipes  
 
-### 1️⃣ Edit the `Wooden Utilities.toml` Config  
+## 1️⃣ Edit the `Wooden Utilities.toml` Config  
 1. Navigate to the `config` folder in your Minecraft directory.  
 2. Open the file **`Wooden Utilities.toml`**.  
 3. Find the setting:  
@@ -22,7 +22,7 @@ This guide explains how to create custom sawmill recipes for the **Wooden Utilit
 
 ---
 
-### 2️⃣ Create the Custom Recipe Folder  
+## 2️⃣ Create the Custom Recipe Folder  
 1. Go back to the `config` folder.  
 2. Create a new folder named:  
    ```
@@ -31,7 +31,7 @@ This guide explains how to create custom sawmill recipes for the **Wooden Utilit
 
 ---
 
-### 3️⃣ Add a Custom Recipe File  
+## 3️⃣ Add a Custom Recipe File  
 1. Inside the `wooden_utilities` folder, create a new file.  
 2. Name it using this format:  
    ```
@@ -45,7 +45,7 @@ This guide explains how to create custom sawmill recipes for the **Wooden Utilit
 
 ---
 
-### 4️⃣ Write the Recipe JSON  
+## 4️⃣ Write the Recipe JSON  
 Inside your `1_1sawmillrecipe.json` file, add the following structure:
 
 ```json
@@ -77,7 +77,7 @@ Inside your `1_1sawmillrecipe.json` file, add the following structure:
 ## ✅ Example Recipes  
 Here are a few examples:  
 
-### **Example 1: Oak Log to Planks & Sticks**
+## **Example 1: Oak Log to Planks & Sticks**
 ```json
 {
   "Needed Item ID Or Tag": "minecraft:oak_log",
@@ -96,7 +96,7 @@ Here are a few examples:
 }
 ```
 
-### **Example 2: Logs to Charcoal**
+## **Example 2: Logs to Charcoal**
 ```json
 {
   "Needed Item ID Or Tag": "minecraft:birch_log",
